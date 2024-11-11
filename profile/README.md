@@ -18,4 +18,5 @@ Our mission is to empower businesses and individuals by delivering high-quality,
 - **Scalability:** Our solutions are built to grow with you.
 
 ## Connect with Us🤝
+<contact@duobix.com>   
 [duobix](duobix.com)

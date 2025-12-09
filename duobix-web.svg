@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="63pt"
+   height="54pt"
+   viewBox="0 0 63 54"
+   preserveAspectRatio="xMidYMid"
+   id="svg508"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs512" />
+  <metadata
+     id="metadata490">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+  <g
+     transform="matrix(0.10699387,0,0,-0.09945555,0.17369593,109.88379)"
+     fill="#000000"
+     stroke="none"
+     id="g506">
+    <path
+       d="M 165.78201,1072.711 C 86.782009,983.71106 0.78200969,857.71106 0.78200969,830.71106 c 0,-27 44.99999931,-93 157.00000031,-234 33,-41 68,-38 108,9 l 31,38 23,-31 c 30,-42 55,-56 80,-42 11,5 57,58 102,117 108,140 109,147 15,269 -127,163.99994 -135,167.99994 -188,103.99994 l -33,-39 -36,39 c -43,47 -60,49 -94,12 z m 177,-143.99994 c 60,-65 72,-92 54,-125 -22,-43 -93,-116 -108,-111 -7,3 -32,28 -55,57 -49,59 -54,93 -21,137 35,47 71,84 81,84 6,0 28,-19 49,-42 z"
+       id="path498"
+       style="fill:#007bff;fill-opacity:1" />
+  </g>
+</svg>
